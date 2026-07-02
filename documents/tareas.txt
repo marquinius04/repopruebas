@@ -1,3 +1,2 @@
-Pepe tiene la tarea 1
-María la tarea 2
-Luisa las tareas 1 y 2
+Usuario 1 tiene la tarea X
+Usuario 2 tiene la tarea Y
